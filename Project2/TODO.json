@@ -1,0 +1,53 @@
+{
+	"Lab Section": 12,
+	"Last Modified": "2018-09-26",
+	"OU ID": 112919630,
+	"OU Email": "joseph.w.lovoi-1@ou.edu",
+	"Tasks": [
+		{
+			"Description": "Import the previous project's Map Data class, add the utcDateTime",
+			"Estimated Time": 15,
+			"Actual Time": 00
+		},
+		{
+			"Description": "Import the previous project's Observation class'",
+			"Estimated Time": 10,
+			"Actual Time": 00
+		},
+		{
+			"Description": "Create JUnit4 tests",
+			"Estimated Time": 30,
+			"Actual Time": 20
+		},
+		{
+			"Description": "create the DateTime interface",
+			"Estimated Time": 20,
+			"Actual Time": 00
+		},
+		{
+			"Description": "Create abstractObservation class",
+			"Estimated Time": 10,
+			"Actual Time": 00
+		},
+		{
+			"Description": "create the StatsType Enumeration for the Statistics class",
+			"Estimated Time": 10,
+			"Actual Time": 00
+		},
+		{
+			"Description": "create the Statistics class",
+			"Estimated Time": 40,
+			"Actual Time": 00
+		},
+		{
+			"Description": "Add documentation",
+			"Estimated Time": 30,
+			"Actual Time": 00
+		},
+		{
+			"Description": "Format output in the Driver class",
+			"Estimated Time": 15,
+			"Actual Time": 00
+		}
+	]
+}
